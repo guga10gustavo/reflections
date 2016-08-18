@@ -1,0 +1,27 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+______________________________________________________________________________
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+    É criado um arquivo .git , porque é necessario um espaço onde possam ser enviados os commits.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+    A area de preparação do diretorio de trabalho é onde ficam os arquivos antes de ser executado um commit, já o repositorio é onde ficaram os commits feitos. Ela tem o valor que efetuar o commit de todos os aruivos de uma vez em vez de ter que efetuar varios commits.
+
