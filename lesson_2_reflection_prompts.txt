@@ -25,3 +25,19 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
 
     A area de preparação do diretorio de trabalho é onde ficam os arquivos antes de ser executado um commit, já o repositorio é onde ficaram os commits feitos. Ela tem o valor que efetuar o commit de todos os aruivos de uma vez em vez de ter que efetuar varios commits.
 
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+    Por meio do comando git add podemos colocar os arquivos modificados do working directiory na staging area e assim aos usarmos o comando git commit pode-se fazer o commit de todos os arquivos da staging area naquele momento de uma vez só.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+    Quando é necessario que sejam feitas duas ou mais versoes do mesmo arquivo, sendo que elas nao podem se sobrepor no repositorio e tambem sempre que o projeto sofre uma grande mudança, alem de quando é encontrado um bug.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+
+    Os diagramas ajudam de forma que fica mais facil visualizar a sequencia de commits que foi feita e tambem quais commits estao em quais branches.Alem que permitir uma melhor visualização das ramificações e dos varios banches.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+    O resultado da mesclagem de dois branches é a criação de um commit que conecta os dois branches, alem de permites acesso aos commits do outro já que se combinaram. Porque quando ocorre a mesclagem de dois branches o commit criado guarda informaçoes dos dois parents, um de cada branch
+
