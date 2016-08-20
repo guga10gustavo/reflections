@@ -1,6 +1,6 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 
-  Para transmiter o conteudo de um repositorio para um remoto,que será usado para compatilhar o conteudo.
+    Para transmiter o conteudo de um repositorio para um remoto,que será usado para compatilhar o conteudo.
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 
@@ -11,3 +11,7 @@ Descreva as diferenças entre bifurcações, clones e branches. Quando você usa
     .Branch são criando em um unico repositorio e sao usado como rotulos para os commits;
     .Clone é usado para criar repositorio identicos/clonar de um repositorio remoto(GitHub) para o Local ou dentro um mesmo Local;
     .Fork é usado para clonar repositorios de GitHub para GitHub.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
+    O beneficio é que torna-se possivel estar atualizado sobre as possiveis atualizações feitas por colaboradores alem de possibilitar mudanças no arquivo mais recente.
