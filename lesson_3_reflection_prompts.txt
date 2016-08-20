@@ -19,3 +19,7 @@ Qual é o benefício de ter uma cópia do último estado conhecido do remoto arm
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 
     Eu colaboraria tentando entrar em contato com a pessoa de outra forma como por exemplo por meio de redes sociais ou e-mail.Seria mais facil a comunicação entre os envolvidos pois haveria a possibilidade de varios caminhos, ja o dificil seria a aquisição do aruivo atualizados cada um por um dos sujeitos e uni-los.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+    Quando deseja-se fazer modificoes no arquivo porem ainda nao foram analisadas e aprovadas pelo criador do master. Os beneficios sao que com isso pode-se ter varias alterações de um mesmo arquivo e depois é possivel compara-las e escolhe-las conforme a necessidades e gosto, e assim nao perdendo o arquivo original.
