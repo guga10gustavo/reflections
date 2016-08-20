@@ -1,1 +1,3 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+  Para transmiter o conteudo de um repositorio para um remoto,que será usado para compatilhar o conteudo.
