@@ -15,3 +15,7 @@ Descreva as diferenças entre bifurcações, clones e branches. Quando você usa
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 
     O beneficio é que torna-se possivel estar atualizado sobre as possiveis atualizações feitas por colaboradores alem de possibilitar mudanças no arquivo mais recente.
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+    Eu colaboraria tentando entrar em contato com a pessoa de outra forma como por exemplo por meio de redes sociais ou e-mail.Seria mais facil a comunicação entre os envolvidos pois haveria a possibilidade de varios caminhos, ja o dificil seria a aquisição do aruivo atualizados cada um por um dos sujeitos e uni-los.
