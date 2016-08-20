@@ -1,3 +1,7 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 
   Para transmiter o conteudo de um repositorio para um remoto,que será usado para compatilhar o conteudo.
+
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+
+    Para evitar que com autalização automatica o repositorio remoto seja preenchido com commits nao desejados.
